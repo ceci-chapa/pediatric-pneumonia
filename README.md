@@ -3,4 +3,4 @@
 To determine whether breastfeeding reduces the risk of pneumonia hospitalization during the first year of life, after accounting for socioeconomic, demographic, and behavioral confounders.
 
 
-Slides to the project can be found here: [Pneumonia Project Slides] (https://canva.link/uknikrossr87ltc "Pneumoia Project Slides")
+Slides to the project can be found here: [Pneumonia Project Slides](https://canva.link/uknikrossr87ltc "Pneumoia Project Slides")
